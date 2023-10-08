@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm interested in Data Science.
 
 <!--
 **JaewooKim777/JaewooKim777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
