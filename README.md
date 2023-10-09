@@ -39,8 +39,8 @@ I'm interested in Data Science.
 - ITQ C(한국생산성본부, 0609) 
 
 ### Degree
-- B.S. in computer engeenering(1703~2302)
 - M.S. in computer engeenering(2303~Present)
+- B.S. in computer engeenering(1703~2302)
 
 ### Language
 - Korean
