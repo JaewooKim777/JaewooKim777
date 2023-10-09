@@ -2,10 +2,10 @@
 I'm interested in Data Science.
 
 ### Ongoing Projects
-(NRF, 2303~2502)빅데이터 플랫폼 기반 이종 연구 성과물 통합 기법
-(중소조선연구원, 2309~)스마트야드 전문인력양성사업
-(창원대 R&D혁신본부, 2303~2402)강사-대학원생-교원 간 융합연구 지원
-(울산,경남지역혁신플랫폼 스마트제조ICT사업단, 2306~2401)2023년 수요맞춤형 기술공동 연구프로젝트 교육프로그램
+(NRF, 2303~2502) 빅데이터 플랫폼 기반 이종 연구 성과물 통합 기법
+(중소조선연구원, 2309~) 스마트야드 전문인력양성사업
+(창원대 R&D혁신본부, 2303~2402) 강사-대학원생-교원 간 융합연구 지원
+(울산,경남지역혁신플랫폼 스마트제조ICT사업단, 2306~2401) 2023년 수요맞춤형 기술공동 연구프로젝트 교육프로그램
 
 ### KCI paper
 (한국콘텐츠학회논문집, 2304) 안진수, 김재우, 유재수, 최도진, 클러스터 특성과 심층 신경망을 이용한 창원시 공영자전거 이용자 수 예측
@@ -26,10 +26,10 @@ I'm interested in Data Science.
 (B.S.) 김재우, 전찬용, 안동혁, 입원 환자 도움 프로그램
 
 ### Experiences
-(2209~Present)Intelligent Big Data Processing Lab, Research Student
-(2206~2208)Korea Electrotechnology Research Institute, Field Trainee
-(2106~2108)Next-generation Operating Systems Lab, Undergraduate Intern
-(1903~1911)AIR Junior, Mentee
+(2209~Present) Intelligent Big Data Processing Lab, Research Student
+(2206~2208) Korea Electrotechnology Research Institute, Field Trainee
+(2106~2108) Next-generation Operating Systems Lab, Undergraduate Intern
+(1903~1911) AIR Junior, Mentee
 
 ### Award
 (KCC2023, 2306) 군집 특성을 고려한 딥러닝 기반 창원시 누비자 서비스 이용자 수 예측, 학부생부문 우수상
