@@ -50,7 +50,8 @@ I'm interested in Data Science.
 - Full Scholarship Student(2303~Present) 
 - Receiving scholarships six times(1703~2302)
 - Research Assistant(2303~2308)
-- Part-time Data Collector(aiworks,2106~Present)
+- Part-time Data Collector(aiworks, 2106~Present)
+- Air Defense Operation Control Clerk(Republic of Korea Army, 1704~1901)
 <!--
 **JaewooKim777/JaewooKim777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
