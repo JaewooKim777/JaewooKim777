@@ -43,14 +43,14 @@ I'm interested in Data Science.
 - B.S. in computer engeenering(1703~2302)
 
 ### Language
-- Korean
-- English
-- Japanese
+- Python, C, sql, java
+- Korean, English, Japanese
 
 ### etc
-- Full Scholarship Student(2303 ~ Present) 
-- Receiving scholarships six times(1703 ~ 2302)
-- Research Assistant(2303 ~ 2308)
+- Full Scholarship Student(2303~Present) 
+- Receiving scholarships six times(1703~2302)
+- Research Assistant(2303~2308)
+- Part-time Data Collector(aiworks,2106~Present)
 <!--
 **JaewooKim777/JaewooKim777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
