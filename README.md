@@ -32,7 +32,8 @@ I'm interested in Data Science.
 - Next-generation Operating Systems Lab, Undergraduate Intern(2106~2108)
 - AIR Junior, Mentee(1903~1911)
 
-### Award
+### Awards
+- GCN을 이용한 분자 용해도 예측, 입선(제3회 경남소프트웨어경진대회, 2311)
 - 군집 특성을 고려한 딥러닝 기반 창원시 누비자 서비스 이용자 수 예측, 학부생부문 우수상(KCC2023, 2306)
 
 ### Certifications
