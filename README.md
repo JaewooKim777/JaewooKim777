@@ -45,7 +45,7 @@ I'm interested in Data Science.
 - B.S. in computer engeenering(1703~2302)
 
 ### Language
-- Python, C, sql, java
+- Python, SQL, R, C++, Java
 - Korean, English, Japanese
 
 ### etc
