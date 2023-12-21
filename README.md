@@ -14,6 +14,8 @@ I'm interested in Data Science.
 - 안진수, 김재우, 유재수, 최도진, 클러스터 특성과 심층 신경망을 이용한 창원시 공영자전거 이용자 수 예측(한국콘텐츠학회논문집, 2304)
 
 ### Conference papers
+- Jaewoo Kim, Jinwoo Park, Dowoo Kim, Jinsoo Ahn, Jaesoo Yoo, Dojin Choi, Design of a Name Disambiguation Scheme Based on Spark(ICCC2023, 2312)
+- Dowoo Kim, Jaewoo Kim, Jaesoo Yoo, Dojin Choi, Image-Based Diagnosis Service for Pet Eye Diseases(ICCC2023, 2312)
 - 김재우, 최도진, 스마트팩토리를 위한 PINN(UCWIT2023, 2311)
 - 김재우, 김태형, 유재수, 최도진, 프로그램 설계를 통한 빅데이터 활용 교육(2023 공학교육학술대회, 2309)
 - 김재우, 안진수, 유재수, 최도진, 입문자를 위한 CPU 교육 예시(2023 공학교육학술대회, 2309)
