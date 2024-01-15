@@ -30,7 +30,7 @@ I'm interested in Data Science.
 - 안진수, 강지윤, 이수민, 김재우, 최도진, 유재수, 창원시 공영자전거 반납 대여 이력 데이터를 이용한 유동인구 및 이용패턴 분석(KDBC2022, 2211)
 
 ### Thesis
-- 김재우, 전찬용, 안동혁, 입원 환자 도움 프로그램(B.S.)
+- 김재우, 전찬용, 입원 환자 도움 프로그램(B.S., Supervisor : Donghyeok An)
 
 ### Experiences
 - Intelligent Big Data Processing Lab, Research Student(2209~Present)
