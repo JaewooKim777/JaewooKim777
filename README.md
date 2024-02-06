@@ -32,7 +32,7 @@ I'm interested in Data Science.
 ### Thesis
 - 김재우, 전찬용, 입원 환자 도움 프로그램(B.S., Supervisor : Donghyeok An)
 
-### Experiences
+### Experience
 - Intelligent Big Data Processing Lab, Research Student(2209~Present)
 - Korea Electrotechnology Research Institute, Field Trainee(2206~2208)
 - Next-generation Operating Systems Lab, Undergraduate Intern(2106~2108)
