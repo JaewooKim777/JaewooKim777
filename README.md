@@ -45,7 +45,7 @@ I'm interested in Data Science.
 ### Certification
 - DSAC 데이터 사이언티스트 자격 3급(프로그래머)(한국생산성본부, 2402)
 - DB분석 전문가 2급(한국자격기술인증원, 2202)
-- ITQ C등(한국생산성본부, 0609) 
+- ITQ C등급(한국생산성본부, 0609) 
 
 ### Degree
 - M.S. in computer engeenering(2303~Present)
