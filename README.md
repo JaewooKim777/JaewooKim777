@@ -1,7 +1,7 @@
 # Hi there 👋
 I'm interested in Data Science.
 
-### Projects
+### Project
 - 빅데이터 플랫폼 기반 이종 연구 성과물 통합 기법(NRF, 2303~2502)
 - 스마트야드 전문인력양성사업(중소조선연구원, 2309~Present)
 - 정부지원⸱공모사업 알리미 Ver1.0, AI알리미(AL-RIMI) 솔루션(알파에듀, 2401~2406)
@@ -10,11 +10,11 @@ I'm interested in Data Science.
 - 스마트 팩토리 현장 기반 빅데이터 및 인공지능 플랫폼 구축(울산⸱경남지역혁신플랫폼 스마트제조ICT사업단 2023년 수요맞춤형 기술공동 연구프로젝트 교육프로그램, 2306~2401)
 - 대용량 그래프 신경망 분석을 위한 분산 빅데이터 플랫폼 구축(울산⸱경남지역혁신플랫폼 5C LAB 과제, 2210~2212) 
 
-### KCI papers
+### KCI paper
 - 김재우, 박진우, 김도우, 안진수, 유재수, 최도진, 빅데이터 플랫폼 기반 동명이인 판별 기법 설계(한국콘텐츠학회논문집, 2401)
 - 안진수, 김재우, 유재수, 최도진, 클러스터 특성과 심층 신경망을 이용한 창원시 공영자전거 이용자 수 예측(한국콘텐츠학회논문집, 2304)
 
-### Conference papers
+### Conference paper
 - Jaewoo Kim, Jinwoo Park, Dowoo Kim, Jinsoo Ahn, Jaesoo Yoo, Dojin Choi, Design of a Name Disambiguation Scheme Based on Spark(ICCC2023, 2312)
 - Dowoo Kim, Jaewoo Kim, Jaesoo Yoo, Dojin Choi, Image-Based Diagnosis Service for Pet Eye Diseases(ICCC2023, 2312)
 - 김재우, 최도진, 스마트팩토리를 위한 PINN(UCWIT2023, 2311)
@@ -38,14 +38,14 @@ I'm interested in Data Science.
 - Next-generation Operating Systems Lab, Undergraduate Intern(2106~2108)
 - AIR Junior, Mentee(1903~1911)
 
-### Awards
+### Award
 - GCN을 이용한 분자 용해도 예측, 입선(제3회 경남소프트웨어경진대회, 2311)
 - 군집 특성을 고려한 딥러닝 기반 창원시 누비자 서비스 이용자 수 예측, 학부생부문 우수상(KCC2023, 2307)
 
-### Certifications
+### Certification
 - DSAC 데이터 사이언티스트 자격 3급(프로그래머)(한국생산성본부, 2402)
 - DB분석 전문가 2급(한국자격기술인증원, 2202)
-- ITQ C(한국생산성본부, 0609) 
+- ITQ C등(한국생산성본부, 0609) 
 
 ### Degree
 - M.S. in computer engeenering(2303~Present)
