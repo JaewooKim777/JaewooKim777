@@ -16,6 +16,7 @@
 - 안진수, 김재우, 유재수, 최도진, 클러스터 특성과 심층 신경망을 이용한 창원시 공영자전거 이용자 수 예측(한국콘텐츠학회논문집, 2304)
 
 ### Conference paper
+- 김재우, 유재수, 최도진, 이종 연구 성과물을 이용한 동명이인 판별 기법 설계(2024 한국콘텐츠학회 종합학술대회, 2405)
 - Jaewoo Kim, Jinwoo Park, Dowoo Kim, Jinsoo Ahn, Jaesoo Yoo, Dojin Choi, Design of a Name Disambiguation Scheme Based on Spark(ICCC2023, 2312)
 - Dowoo Kim, Jaewoo Kim, Jaesoo Yoo, Dojin Choi, Image-Based Diagnosis Service for Pet Eye Diseases(ICCC2023, 2312)
 - 김재우, 최도진, 스마트팩토리를 위한 PINN(UCWIT2023, 2311)
