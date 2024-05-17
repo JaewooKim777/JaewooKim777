@@ -1,5 +1,5 @@
 # Hi there 👋
-🌱 I’m currently studying Data Science and Mobility Technology.
+🌱 I’m currently studying Data Science.
 
 ### Project
 - 빅데이터 플랫폼 기반 이종 연구 성과물 통합 기법(NRF, 2303~2502)
