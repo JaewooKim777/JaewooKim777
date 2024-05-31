@@ -60,6 +60,7 @@
 
 ### etc
 - Full Scholarship Student(2303~Present)
+- 국민취업지원제도(고용노동부, 240520~Present)
 - Research Assistant(2303~2308) 
 - Receiving scholarships six times(1703~2302)
 - Part-time Data Collector(aiworks, 2106~Present)
