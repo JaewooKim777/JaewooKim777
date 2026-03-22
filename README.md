@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m currently studying Data Science.
+I’m interested in AI and QA.
 <!--
 **JaewooKim777/JaewooKim777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
